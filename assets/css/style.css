@@ -1,0 +1,44 @@
+.row {
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 0.8;
+}
+
+.row:hover {
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 1.0;
+}
+
+
+.jumbotron {
+    background-image: url("../images/papyrus.png");
+    background-size: auto;
+    background-repeat: repeat-x;
+}
+
+body {
+    background-image: url("../images/trainbg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.table,
+.form-group {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    background-color: white;
+}
+
+.card-header {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    background-color: blue;
+    color: white;
+}
+
+thead {
+    font-weight: bold;
+}
